@@ -1,10 +1,9 @@
-# FIT3143 Lab #1 — Experiments and Results
+# Experiments and Results
 
-Everything measured so far, and what it means. This is the raw material for
-the Task 4 slides.
+Everything measured, and what it means.
 
 **Test machine:** AMD Ryzen 5 7535HS — **4 physical cores / 8 logical**
-(SMT, 2 threads per core), inside the `monashfit/fit3143` Docker container.
+(SMT, 2 threads per core), inside a Linux (Ubuntu) Docker container.
 All numbers below come from this machine. If we also measure on the other
 laptop (Intel i7-12650H, 6 P-cores + 4 E-cores = 10 physical / 16 logical),
 that data must be kept separate — mixing two machines in one graph makes the

@@ -1,11 +1,3 @@
-/*
-Author
-Name: Haruto Iriyama
-
-Author
-Name: Hiew Jia Hao
-*/
-
 
 /* ----------------------------------------------------------------------
  * optbench.c - measures the effect of the primality-test optimisations.

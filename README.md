@@ -15,10 +15,9 @@ alone. Neither parallel version needs a lock: results are written into a
 slot indexed by the value being tested, so no two threads touch the same
 memory.
 
-Built for FIT3143 (Parallel Computing) at Monash University, Lab #1, by
-Haruto Iriyama and Hiew Jia Hao. The follow-up — the same problem on
-distributed memory with Open MPI and a hybrid MPI + OpenMP version — is in
-[fit3143-lab2](https://github.com/Haruto03/fit3143-lab2).
+Built by Haruto Iriyama as a two-person university project. The follow-up —
+the same problem on distributed memory with Open MPI and a hybrid MPI + OpenMP
+version — is in [parallel-primes-mpi](https://github.com/Haruto03/parallel-primes-mpi).
 
 ## Key findings
 
@@ -74,4 +73,4 @@ python plot.py                           # renders graphs/*.png (needs matplotli
 | `commands.txt` | Hand-run verification commands |
 
 Measurements were taken on an AMD Ryzen 5 7535HS (4 cores / 8 threads)
-inside the `monashfit/fit3143` Docker image.
+inside a Linux (Ubuntu) Docker container.

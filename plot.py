@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-plot.py - Produce the eight graphs required by the FIT3143 Lab #1 spec.
+plot.py - Produce the graphs used in RESULTS.md.
 
 Reads speedup.csv (written by summarize.sh) and writes one PNG per graph
 into graphs/.

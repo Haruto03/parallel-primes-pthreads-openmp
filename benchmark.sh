@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# benchmark.sh - Collect timing data for FIT3143 Lab #1.
+# benchmark.sh - Collect timing data for the serial / POSIX Threads / OpenMP prime search.
 #
 # Writes results.csv, one row per individual run:
 #   experiment,program,n,threads,rep,time_seconds,primes_found

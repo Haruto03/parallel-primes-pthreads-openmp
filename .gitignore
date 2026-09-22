@@ -54,7 +54,7 @@ dkms.conf
 # debug information files
 *.dwo
 
-# --- FIT3143 Lab1 ---
+# --- project ---
 
 # Linux executables (no extension)
 task1
@@ -74,7 +74,7 @@ task3_sched
 # Office lock/temp files
 ~$*
 
-# course documents and declarations
+# documents
 *.pdf
 *.pptx
 *.html

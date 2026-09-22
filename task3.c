@@ -1,11 +1,3 @@
-/*
-Author
-Name: Haruto Iriyama
-
-Author
-Name: Hiew Jia Hao
-*/
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
