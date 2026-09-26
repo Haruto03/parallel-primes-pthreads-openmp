@@ -1,5 +1,7 @@
 # Parallel prime search: serial, POSIX Threads and OpenMP
 
+English | [日本語](README.ja.md)
+
 Three C programs that find every prime below *n*, written to compare
 shared-memory parallelisation approaches on the same workload:
 
